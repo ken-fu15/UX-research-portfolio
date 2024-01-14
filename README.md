@@ -12,5 +12,7 @@ I am a Master’s student in User Experience Design at the University of Toronto
 Since I cannot view your website to extract specific project details, please add your projects here following this structure:
 
 my research on improving the OHIP application procress: https://www.yulinfu.xyz/easyohip
+
 my research on improving the information architecture of the Toronto Zoo using Metro Zoo as an alias: https://www.yulinfu.xyz/papiertable
+
 Shopper's Drug Mart website revamp ideas: https://www.yulinfu.xyz/copy-of-metro-zoo
